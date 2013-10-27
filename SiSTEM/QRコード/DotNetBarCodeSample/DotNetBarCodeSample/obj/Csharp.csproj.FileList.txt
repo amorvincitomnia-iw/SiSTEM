@@ -1,0 +1,8 @@
+bin\Debug\Csharp.exe
+bin\Debug\Csharp.pdb
+bin\Debug\DotNetBarcode.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Csharp.Form1.resources
+obj\Debug\Csharp.csproj.GenerateResource.Cache
+obj\Debug\Csharp.exe
+obj\Debug\Csharp.pdb

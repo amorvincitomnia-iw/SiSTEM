@@ -1,0 +1,4 @@
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\bin\Release\Csharp.exe
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Release\Csharp.Form1.resources
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Release\Csharp.csproj.GenerateResource.Cache
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Release\Csharp.exe

@@ -1,0 +1,7 @@
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Debug\Csharp.exe
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Debug\Csharp.pdb
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\bin\Debug\Csharp.exe
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\bin\Debug\Csharp.pdb
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Debug\Csharp.Form1.resources
+D:\Desktop\DotNetBarcode_V2.4.0\CsharpSample\DotNetBarCodeSample\DotNetBarCodeSample\obj\Debug\Csharp.csproj.GenerateResource.Cache
